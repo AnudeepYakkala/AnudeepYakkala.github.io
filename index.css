@@ -256,6 +256,12 @@ background-image: linear-gradient(0deg, #eeeeee 0%, #eeeeee 56%, #d58266 56%, #d
   display:flex;
   background: #597382;
   width: 101%;
+  left:0;
+  height: 539.75px;
+}
+
+.rowMid {
+  display:flex;
 }
 
 
