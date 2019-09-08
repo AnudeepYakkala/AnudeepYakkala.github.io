@@ -52,6 +52,8 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
   width: auto;
+  height: 33.1vw;
+  
 }
 
 .Project {
@@ -212,11 +214,7 @@ img {
 
 body  {
 background-color: #eeeeee;
-background-image: linear-gradient(0deg, #eeeeee 0%, #eeeeee 51%, #d58266 50%, #d58266 83.9%, #597382 83%, #597382 88%);/* W3C */
-
-}
-  
-  
+background-image: linear-gradient(0deg, #eeeeee 0%, #eeeeee 56%, #d58266 56%, #d58266 86.5%, #597382 86.5%, #597382 88%);/* W3C */
 }
 
 .ProjectTitle { font-family: Arial; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 14px;}
@@ -252,6 +250,7 @@ background-image: linear-gradient(0deg, #eeeeee 0%, #eeeeee 51%, #d58266 50%, #d
   padding: 3%;
   margin-top: 0px;
 }
+
 
 
 
