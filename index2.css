@@ -1,0 +1,270 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+.Name {
+  overflow: hidden;
+  background-color: #fafafa;
+  position: fixed; 
+  top: 0; 
+  left: 0;
+  width: 100%;
+  height: 95px;
+  z-index: 1;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline; 
+}
+
+.Output {
+  color: #c7bdbd;
+}
+
+.Link {
+  color: #508fc0;
+}
+
+.ProjectsTitle {
+  font: "verdana";
+  font-size: 19px;
+}
+
+.About {
+  font-family: "Roboto", sans-serif;
+  background: #565555;
+  margin-top: 5%;
+  width: 50%;
+  border-top: 13px solid white;
+  border-radius: 0.6%;
+  margin-left:25%;
+  padding: 40px;
+  box-sizing: border-box;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+.headerImage {
+  margin-top:5%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+.Project {
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  font-size: 16px;
+  width: 40%;
+  height: 560px;
+  margin-right: 10%;
+  height: auto;
+  background: #41b3a3;
+  z-index: -1;
+  padding-top: 2.5%;
+}
+
+.Project1Text {
+  padding: 8px;
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  font-size: 14.5px;
+  width: 40%;
+  height: 130px;
+  background: #ffffff;
+  float:left;
+}
+
+.Project2 {
+  padding-top: 2.5%;
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  font-size: 16px;
+  width: 40%;
+  height: 560px;
+  height:auto;
+  background: #c38d9e;
+  position: relative;
+  z-index: -1;
+  padding: 2.5%;
+}
+
+.Project2Text {
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  font-size: 14.5px;
+  width: 40%;
+  height: 130px;
+  background: #ffffff;
+  float:right;
+}
+
+.Project3 {
+  padding-top: 4.3%;
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  font-size: 16px;
+  width: 40%;
+  height: 560px;
+  height: auto;
+  margin-right:10%;
+  background: #739fae;
+  position: relative;
+  z-index: -1;
+}
+
+.Project4 {
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  font-size: 16px;
+  width: 40%;
+  height: 560px;
+  height: auto;
+  background: #e27860;
+  position: relative;
+  z-index: -1;
+  padding-bottom: 2%;
+}
+
+.Project5 {
+  padding-top:1%;
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  font-size: 16px;
+  width: 40%;
+  height: 560px;
+  height:auto;
+  margin-right:10%;
+  background: #8d8741;
+  position: relative;
+  z-index: -1;
+
+}
+
+.Project6 {
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  font-size: 16px;
+  width: 40%;
+  height: 560px;
+  height:auto;
+  background: #659dbd;
+  position: relative;
+  z-index: -1;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  width: auto\9;
+}
+
+.top {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  margin-top: 20px;
+}
+
+.column {
+  flex: 50%;
+ 
+  
+}
+
+.row {
+  display: flex;
+  margin-top: 5%;
+  margin-left: 10%;
+}
+
+.row2 {
+  display: flex;
+}
+
+.top2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  margin-top: 17px;
+}
+
+.top3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  margin-top: 15.5px;
+}
+
+body  {
+background-color: #eeeeee;
+background-image: linear-gradient(0deg, #eeeeee 0%, #eeeeee 51%, #d58266 50%, #d58266 83.9%, #597382 83%, #597382 88%);/* W3C */
+
+}
+  
+  
+}
+
+.ProjectTitle { font-family: Arial; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 14px;}
+
+.ProjectTitle2 { font-family: Arial; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 14px; color:#7D7878; margin-top:38px;}
+
+.ProjectTitle3 { font-family: Arial; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 14px; color:#ffffff}
+
+
+.projectText {
+  font-family: "Roboto", sans-serif; 
+  line-hight: 20px;
+  font-size: 14px;
+  box-sizing: border-box;
+  background:#ffffff;
+  width:72.3%;
+  margin-left: 19.8%;
+  height: 130px;
+  padding: 3%;
+  margin-top: 0px;
+}
+
+.projectText2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  line-hight: 20px;
+  font-style: normal;
+  box-sizing: border-box;
+  background:#ffffff;
+  width:72.3%;
+  margin-left: 9.9%;
+  height: 130px;
+  padding: 3%;
+  margin-top: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
